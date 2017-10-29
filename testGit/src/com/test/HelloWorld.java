@@ -8,6 +8,8 @@ public class HelloWorld {
 		System.out.println("第二台机第一次提交成功");
 		
 		System.out.println("第一台机第二次更新");
+		
+		System.out.println("第二台机第二次更新");
 	}
 
 }
